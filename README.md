@@ -94,3 +94,9 @@
 - 📨 Email: **thrima.work@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/thrima)
 - 💻 [Portfolio](https://thrima.me)
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Thrima97/count.svg?" />
+</div>
