@@ -75,7 +75,7 @@
 
 ## 📈 GitHub Stats
 
-<p><a href="https://github.com/thrima97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thrima97" alt="Thrima97" /></a></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Thrima97" alt="Thrima97" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thrima97/Thrima97/output/github-snake-dark.svg" />
