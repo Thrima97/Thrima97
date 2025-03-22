@@ -75,7 +75,11 @@
 
 ## 📈 GitHub Stats
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=Thrima97" alt="Thrima97" /></p>
+<div><img src="https://github-profile-trophy.vercel.app/?username=Thrima97" alt="Thrima97" /></div>
+<br>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thrima97&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thrima97/Thrima97/output/github-snake-dark.svg" />
