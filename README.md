@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Thrima — a Software Engineer
 
-🧑‍💻 I'm **Shehara Trhimavithana**, a Software Engineer passionate about building web applications that solve real-world problems.  
+🧑‍💻 I'm **Shehara Trhimavithana**, building smart, real-world web solutions <br>
 🌐 Currently working at [Sanmark Solutions (Pvt) Ltd](https://sanmarksolutions.com/)  
 📍 Based in Sri Lanka | ⏳ 3+ Years of Experience  
 📬 Reach me at **thrima.work@gmail.com**
