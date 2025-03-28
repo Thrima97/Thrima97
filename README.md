@@ -73,6 +73,13 @@
 
 ---
 
+## 🎯 Roadmap.sh Projects
+<div align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/67e65385616abc6b0bb985ca?variant=dark" alt="roadmap.sh" />
+  </a>
+</div>
+
 ## 📈 GitHub Stats
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=Thrima97" alt="Thrima97" /></div>
