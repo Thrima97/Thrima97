@@ -60,7 +60,7 @@
 - **🏥 Medical Center MVP** – Full Stack (Laravel Livewire)
 - **📝 Tender Hub** – Laravel + CI/CD + Docker
 
-> More projects and MVPs on my [Portfolio](https://thrima.me)
+> More projects and MVPs on my [Portfolio](https://sheharat.com)
 
 ---
 
@@ -100,7 +100,7 @@
 
 - 📨 Email: **thrima.work@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/thrima)
-- 💻 [Portfolio](https://thrima.me)
+- 💻 [Portfolio](https://sheharat.com)
 
 ---
 
